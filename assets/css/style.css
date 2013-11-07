@@ -1,0 +1,76 @@
+/*! 
+ *  Written for: ?
+ *  Author: @IkantamCorp - @ElmahdiMahmoud
+ *  Further changes: @ElmahdiMahmoud
+ *  Updated: 07.11.13
+ */
+
+/* Links & type =============== */
+a 		{ color: #0088cc; text-decoration: none; }
+a:hover,
+a:focus { color: #005580; text-decoration: none; }
+a {
+     -webkit-transition: all 600ms ease-in-out;
+     	-moz-transition: all 600ms ease-in-out;
+     	  -o-transition: all 600ms ease-in-out;
+             transition: all 600ms ease-in-out;
+}
+a:hover {
+     -webkit-transition: all 600ms ease-in-out;
+     	-moz-transition: all 600ms ease-in-out;
+     	  -o-transition: all 600ms ease-in-out;
+     	     transition: all 600ms ease-in-out;
+}
+
+/* ** Helpers ** */
+
+/*  Upgrade your browser today */
+#uyb {
+	background-color: #444;
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	padding: 20px;
+	text-align: center;
+	color: #fff;
+	font: normal 16px/100% Arial, san-serif;
+}
+#uyb a { color: #F0D200; text-decoration: underline; }
+
+/* Miscellaneous ============== */
+input::-moz-focus-inner { border: 0; }
+*:focus   { outline: 0; }
+a img     { border: 0; }
+a:active, a:focus { outline:none; }
+@media \0screen { img { width: auto; } }
+body, textarea:focus, input:focus { -webkit-tap-highlight-color: rgba(255, 255, 255, 0); }
+
+::-moz-selection { background: #333; color: #fff; text-shadow: none; }
+::selection 	 { background: #333; color: #fff; text-shadow: none; }
+
+/* Icons ====================== */
+[class^="icon-"],
+[class*=" icon-"] {
+  display: inline-block;
+  margin-top: 1px;
+  margin-right: .3em;
+  line-height: 14px;
+  vertical-align: text-top;
+  background-image: url("../media/images/base/sprite.png");
+  background-position: 0 0;
+  background-repeat: no-repeat;
+}
+
+/* Widgets & modules ========== */
+/*Style for plugins, etc...*/
+
+/* Form\Input fields ========== */
+div.selector input:-moz-placeholder              { color: #999999; }
+div.selector textarea:-moz-placeholder           { color: #999999; }
+
+div.selector input:-ms-input-placeholder         { color: #999999; }
+div.selector textarea:-ms-input-placeholder      { color: #999999; }
+
+div.selector input::-webkit-input-placeholder    { color: #999999; } 
+div.selector textarea::-webkit-input-placeholder { color: #999999; }
