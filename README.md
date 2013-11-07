@@ -30,3 +30,26 @@ Content columns with Right sidebar:
 </div><!--/ container -->
 ```
 
+Content columns with Left sidebar:
+```html
+<!-- container -->
+<div class="container">
+  <!-- row -->
+  <div class="row row-offcanvas row-offcanvas-right">
+  
+    <!-- left sidebar -->
+    <aside class="col-xs-6 col-sm-3 sidebar-offcanvas">
+      <!-- WIDGETS GOES HERE! -->
+    </aside>
+    <!--/ left sidebar -->
+    
+    <!-- right content side -->
+    <section class="col-xs-12 col-sm-9">
+      <!-- CONTENT GOES HERE! -->
+    </section>
+    <!--/ right content side -->
+    
+  </div><!--/ row -->
+</div><!--/ container -->
+```
+
