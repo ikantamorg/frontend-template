@@ -7,8 +7,8 @@ Frontend template for personal workflow
 
 Snippets:
 ===
-Content with Right sidebar
----
+Content columns with Right sidebar:
+
 ```html
 <!-- container -->
 <div class="container">
