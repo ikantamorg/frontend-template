@@ -5,6 +5,6 @@ Frontend template for personal workflow
 
 ---
 
-#Snippets
-==
+Snippets
+===
 
