@@ -4,14 +4,15 @@ Frontend template for personal workflow
 *This repository has been created by [@ElmahdiMahmoud](ElmahdiMahmoud). this repository packed with the lastest Bootstrap [v3.0.2](http://getbootstrap.com/).*
 
 ---
-
+#Bootstrap
+--
 Layout Snippets:
 ===
 HTML: Centerd container
 ```html
 <!-- container -->
 <div class="container">
-  <!-- Centerd container -->
+  <!-- CONTENT GOES HERE! -->
 </div><!--/ container -->
 
 ```
