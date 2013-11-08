@@ -1,7 +1,7 @@
-Frontend template for [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team workflow.
+Frontend template starter for front-end developers workflow.
 ---
 
-*The purpose of the repository is having a uni guideline for [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers. This repository has been created by [@ElmahdiMahmoud](https://twitter.com/ElmahdiMahmoud) a front-end engineer at [@IkantamCorp](https://twitter.com/IkantamCorp). The repository packed with the lastest Bootstrap [v3.0.2](http://getbootstrap.com/) and some of our own custom file where .css or .js.*
+The purpose of having this repository is to build a uni guideline for [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers. This repository has been created by [@ElmahdiMahmoud](https://twitter.com/ElmahdiMahmoud) a front-end engineer at [@IkantamCorp](https://twitter.com/IkantamCorp). The repository packed with the lastest Bootstrap [v3.0.2](http://getbootstrap.com/) and some of our own custom file where .css or .js.
 
 ---
 
