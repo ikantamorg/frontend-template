@@ -1,12 +1,12 @@
 /*! 
  *  Written for: ?
  *  Author: @IkantamCorp - @ElmahdiMahmoud
- *  Further changes: @ElmahdiMahmoud
- *  Updated: 07.11.13
+ *  Further changes: @author
+ *  Last modified date: 09.11.13
  */
 
 /* Links & type =============== */
-a 		{ color: #0088cc; text-decoration: none; }
+a 	{ color: #0088cc; text-decoration: none; }
 a:hover,
 a:focus { color: #005580; text-decoration: none; }
 a {
