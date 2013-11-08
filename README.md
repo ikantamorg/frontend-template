@@ -12,8 +12,7 @@ HTML: Centerd container
 <!-- container -->
 <div class="container">
   <!-- Centerd container -->
-</div>
-<!--/ container -->
+</div><!--/ container -->
 
 ```
 HTML: Left Content col with Right Sidebar
@@ -39,7 +38,7 @@ HTML: Left Content col with Right Sidebar
 HTML: Right Content col with Left Sidebar:
 ```html
   <!-- row -->
-  <div class="row row-offcanvas row-offcanvas-right">
+  <div class="row row-offcanvas row-offcanvas-left">
   
     <!-- left sidebar -->
     <aside class="col-xs-6 col-sm-3 sidebar-offcanvas">
