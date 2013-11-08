@@ -7,9 +7,7 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 Packed with: 
 ---
 * The lastest Bootstrap [v3.0.2](http://getbootstrap.com/) 
-* [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team custom files such as:
-** [style.css](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/assets/css/style.css)
-** [custom.js](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/assets/js/custom.js)
+* [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team custom files such as: [style.css](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/assets/css/style.css) and [custom.js](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/assets/js/custom.js)
 
 ---
 
