@@ -5,12 +5,19 @@ Frontend template for personal workflow
 
 ---
 
-Snippets:
+Layout Snippets:
 ===
-Content columns with Right sidebar:
+HTML: Centerd container
 ```html
 <!-- container -->
 <div class="container">
+  <!-- Centerd container -->
+</div>
+<!--/ container -->
+
+```
+HTML: Left Content col with Right Sidebar
+```html
   <!-- row -->
   <div class="row row-offcanvas row-offcanvas-right">
   
@@ -27,13 +34,10 @@ Content columns with Right sidebar:
     <!--/ right sidebar -->
     
   </div><!--/ row -->
-</div><!--/ container -->
 ```
 
-Content columns with Left sidebar:
+HTML: Right Content col with Left Sidebar:
 ```html
-<!-- container -->
-<div class="container">
   <!-- row -->
   <div class="row row-offcanvas row-offcanvas-right">
   
@@ -50,6 +54,4 @@ Content columns with Left sidebar:
     <!--/ right content side -->
     
   </div><!--/ row -->
-</div><!--/ container -->
 ```
-
