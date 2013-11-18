@@ -14,4 +14,4 @@ Packed with:
 Snippets:
 ===
 * [Bootstrap HTML Layout](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/bootstrap-html-layout.md)
-
+* [HTML5 forms input types](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/html5-forms-input-types.md)
