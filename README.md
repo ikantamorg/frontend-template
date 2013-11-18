@@ -1,7 +1,7 @@
-Frontend template starter for front-end developers workflow.
+Frontend template starter.
 ---
 
-The purpose of having this repository is to build a uni guideline for [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team. 
+The purpose of having this repository is to build a guideline for [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team. 
 The repository has been created by [@ElmahdiMahmoud](https://twitter.com/ElmahdiMahmoud) a front-end engineer at [@IkantamCorp](https://twitter.com/IkantamCorp). 
 
 Packed with: 
