@@ -3,33 +3,49 @@
 
 #### Positions
 ```html
-<div class="pos-fxd"></div>
-<div class="pos-abs"></div>
-<div class="pos-rtv"></div>
+<div class="pos-fxd"> ... </div>
+<div class="pos-abs"> ... </div>
+<div class="pos-rtv"> ... </div>
 ```
 ```css
-.pos-fxd  { position: fixed; }
+.pos-fxd  { position: fixed;    }
 .pos-abs  { position: absolute; }
 .pos-rtv  { position: relative; }
 ```
 
-
-
-
 #### Outer space with ( margin )
-
-* `class="m-10"`   =  `.m-10   { margin: 10px; }`   
-* `class="m-t10"`  =  `.m-t10  { margin-top: 10px; }`
-* `class="m-b10"`  =  `.m-b10  { margin-bottom: 10px; }`
-* `class="m-tb10"` =  `.m-tb10 { margin-top: 10px; margin-bottom: 10px; }`
-
+```html
+<div class="m-10">   ... </div>
+<div class="m-t10">  ... </div>
+<div class="m-b10">  ... </div>
+<div class="m-tb10"> ... </div>
+```
+```css
+.m-10   { margin: 10px; }
+.m-t10  { margin-top: 10px; }
+.m-b10  { margin-bottom: 10px; }
+.m-tb10 { 
+  margin-top: 10px; 
+  margin-bottom: 10px; 
+  }
+```
 
 #### Inner space with ( padding )
-
-* `class="p-10"`   =  `.p-10   { padding: 10px; }`   
-* `class="p-t10"`  =  `.p-t10  { padding-top: 10px; }`
-* `class="p-b10"`  =  `.p-b10  { padding-bottom: 10px; }`
-* `class="p-tb10"` =  `.p-tb10 { padding-top: 10px; padding-bottom: 10px; }`
+```html
+<div class="p-10">   ... </div>
+<div class="p-t10">  ... </div>
+<div class="p-b10">  ... </div>
+<div class="p-tb10"> ... </div>
+```
+```css
+.p-10   { padding: 10px; }
+.p-t10  { padding-top: 10px; }
+.p-b10  { padding-bottom: 10px; }
+.p-tb10 { 
+  padding-top: 10px; 
+  padding-bottom: 10px; 
+  }
+```
 
 --
 ### [Bootstrap Helper classes v3.0.2](http://getbootstrap.com/css/#helper-classes)
