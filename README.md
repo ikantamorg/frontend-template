@@ -19,7 +19,7 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 - Favicon + iPhone favicon
 - Media queries (print and mobile)
 - jQuery (CDN)
-- Reusable classes "[Helper classes]"(https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/helper-classes.md)
+- [Reusable classes](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/helper-classes.md)
 
 ---
 
