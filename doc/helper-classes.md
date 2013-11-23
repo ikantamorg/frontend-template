@@ -41,3 +41,8 @@
 
 *Furthermore, .invisible can be used to toggle only the visibility of an element, meaning its `display` is not modified and the element can still affect the flow of the document.*
 * `class="invisible"` =  `.invisible { visibility: hidden; }`
+
+
+#### Print classes
+* `class="visible-print"`  =  Browser ( Hidden ) - Print  ( Visible )   
+* `class="hidden-print"`   =  Browser ( Visible ) - Print ( Hidden )   
