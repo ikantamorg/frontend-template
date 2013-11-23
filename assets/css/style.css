@@ -2,7 +2,7 @@
  *  Written for: ?
  *  Author: @IkantamCorp - @ElmahdiMahmoud
  *  Further changes: @author
- *  Last modified date: 09.11.13
+ *  Last modified date: 23.11.13
  */
 
 /* Links & type =============== */
@@ -10,33 +10,29 @@ a 	{ color: #0088cc; text-decoration: none; }
 a:hover,
 a:focus { color: #005580; text-decoration: none; }
 a {
-     -webkit-transition: all 600ms ease-in-out;
-     	-moz-transition: all 600ms ease-in-out;
-     	  -o-transition: all 600ms ease-in-out;
-             transition: all 600ms ease-in-out;
+     -webkit-transition: all .50s ease;
+     	-moz-transition: all .50s ease;
+     	  -o-transition: all .50s ease;
+             transition: all .50s ease;
 }
-a:hover {
-     -webkit-transition: all 600ms ease-in-out;
-     	-moz-transition: all 600ms ease-in-out;
-     	  -o-transition: all 600ms ease-in-out;
-     	     transition: all 600ms ease-in-out;
-}
+
 
 /* ** Helpers ** */
 
-/*  Upgrade your browser today */
-#uyb {
-	background-color: #444;
+/*  old browser notification */
+#ob {
+	background-color: #fae4b2;
+	border: 1px solid #ece29d;
 	position: fixed;
 	top: 0;
 	left: 0;
-	right: 0;
+	width: 100%;
 	padding: 20px;
 	text-align: center;
 	color: #fff;
 	font: normal 16px/100% Arial, san-serif;
 }
-#uyb a { color: #F0D200; text-decoration: underline; }
+#ob a { color: #12c; font-weight: bold; text-decoration: underline; }
 
 /* Miscellaneous ============== */
 input::-moz-focus-inner { border: 0; }
@@ -66,11 +62,4 @@ body, textarea:focus, input:focus { -webkit-tap-highlight-color: rgba(255, 255, 
 /*Style for plugins, etc...*/
 
 /* Form\Input fields ========== */
-div.selector input:-moz-placeholder              { color: #999999; }
-div.selector textarea:-moz-placeholder           { color: #999999; }
 
-div.selector input:-ms-input-placeholder         { color: #999999; }
-div.selector textarea:-ms-input-placeholder      { color: #999999; }
-
-div.selector input::-webkit-input-placeholder    { color: #999999; } 
-div.selector textarea::-webkit-input-placeholder { color: #999999; }
