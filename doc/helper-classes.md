@@ -50,10 +50,7 @@
 
 
 
-|               | Extra small devices Phones (<768px) | Small devices Tablets (≥768px)  | Medium devices
-Desktops (≥992px)  | Large devices
-Desktops (≥1200px) |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|               | <768px        | ≥768px      | ≥992px)     | ≥1200px)    |
+| ------------- |:-------------:| -----------:| -----------:| -----------:|
+| col 3 is      | right-aligned | $1600       | $1600       | $1600       |
+
