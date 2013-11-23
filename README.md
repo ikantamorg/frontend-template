@@ -11,6 +11,28 @@ Packed with:
 
 ---
 
+
+### Folder Structure
+
+
+```
+frontend-template/
+├── assets/
+├──── css/
+│     ├── bootstrap.css
+│     └── ikantam.css
+├──── js/
+│     ├── bootstrap-fileupload.min.js
+│     ├── bootstrap.min.js
+│     ├── ikantam.js
+│     └── jquery.ui.touch-punch.min.js
+└──── media/
+      ├── au
+      ├── images
+      └── swf
+```
+
+
 Snippets:
 ===
 HTML
