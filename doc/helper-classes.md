@@ -48,9 +48,14 @@
 
 ### Responsive utilities
 
-
-
-|               | <768px        | ≥768px      | ≥992px)     | ≥1200px)    |
+|               | <768px        | ≥768px      | ≥992px      | ≥1200px     |
 | ------------- |:-------------:| -----------:| -----------:| -----------:|
-| col 3 is      | right-aligned | $1600       | $1600       | $1600       |
+| .visible-xs   | Visible       |  Hidden     | Hidden      | Hidden      |
+| .visible-sm   | Hidden        |  Visible    | Hidden      | Hidden      |
+| .visible-md   | Hidden        |  Hidden     | Visible     | Hidden      |
+| .visible-lg   | Hidden        |  Hidden     | Hidden      | Visible     |
+| .hidden-xs    | Hidden        |  Visible    | Visible     | Visible     |
+| .hidden-sm    | Visible       |  Hidden     | Visible     | Visible     |
+| .hidden-md    | Visible       |  Visible    | Hidden      | Visible     |
+| .hidden-lg    | Visible       |  Visible    | Visible     | Hidden      |
 
