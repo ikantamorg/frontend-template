@@ -17,10 +17,9 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 -- Modern browsers, IE8+ 
 - Valid HTML5
 - Favicon + iPhone favicon
-- Reset
 - Media queries (print and mobile)
 - jQuery (CDN)
-- Reusable classes
+- Reusable classes "[Helper classes]"(https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/helper-classes.md)
 
 ---
 
