@@ -1,4 +1,4 @@
-## Before you start here's a small TODO list
+## Before you start here's a small TODO list you start with
 
 ### Create the following files and save them into the MAIN driectory:
 
