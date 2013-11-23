@@ -1,6 +1,13 @@
 ### Custom Helper Classes:
 ---
 
+#### Browsers
+```css
+.ie8  { /* rule for IE8 */  }
+.ie9  { /* rule for IE9 */  }
+.ie10 { /* rule for IE10*/ }
+```
+
 #### Positions
 ```html
 <div class="pos-fxd"> ... </div>
