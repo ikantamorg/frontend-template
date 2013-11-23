@@ -2,10 +2,17 @@
 ---
 
 #### Positions
+```html
+<div class="pos-fxd"></div>
+<div class="pos-abs"></div>
+<div class="pos-rtv"></div>```
 
-* `class="pos-fxd"` =  `.pos-fxd  { position: fixed; }`
-* `class="pos-abs"` =  `.pos-abs  { position: absolute; }`   
-* `class="pos-rtv"` =  `.pos-rtv  { position: relative; }`
+```css
+.pos-fxd  { position: fixed; }
+.pos-abs  { position: absolute; }
+.pos-rtv  { position: relative; }```
+
+
 
 
 #### Outer space with ( margin )
