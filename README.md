@@ -31,7 +31,7 @@ frontend-template/
 ```
 
 
-### Snippets:
+## Snippets:
 
 HTML
 * [Bootstrap HTML Layout](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/bootstrap-html-layout.md)
