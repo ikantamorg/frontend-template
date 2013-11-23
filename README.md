@@ -15,8 +15,7 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 ## Getting Started
 - HTTPS clone URL `https://github.com/ElmahdiMahmoud/frontend-template.git`.
 - SSH clone URL `git@github.com:ElmahdiMahmoud/frontend-template.git`.
-
-> [TODO](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/TODO.md) list.
+- You may also need to check the [TODO](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/TODO.md) list.
 
 ## License
 MIT License
