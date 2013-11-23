@@ -48,14 +48,14 @@
 
 ### Responsive utilities
 
-|               | <768px        | ≥768px      | ≥992px      | ≥1200px     |
-| ------------- |:-------------:| -----------:| -----------:| -----------:|
-| .visible-xs   | Visible       |  Hidden     | Hidden      | Hidden      |
-| .visible-sm   | Hidden        |  Visible    | Hidden      | Hidden      |
-| .visible-md   | Hidden        |  Hidden     | Visible     | Hidden      |
-| .visible-lg   | Hidden        |  Hidden     | Hidden      | Visible     |
-| .hidden-xs    | Hidden        |  Visible    | Visible     | Visible     |
-| .hidden-sm    | Visible       |  Hidden     | Visible     | Visible     |
-| .hidden-md    | Visible       |  Visible    | Hidden      | Visible     |
-| .hidden-lg    | Visible       |  Visible    | Visible     | Hidden      |
+|               | <768px        | ≥768px            | ≥992px         | ≥1200px       |
+| ------------- |:-------------:| -----------------:| --------------:| -------------:|
+| .visible-xs   | ##### Visible |  Hidden           | Hidden         | Hidden        |
+| .visible-sm   | Hidden        |  ##### Visible    | Hidden         | Hidden        |
+| .visible-md   | Hidden        |  Hidden           | ##### Visible  | Hidden        |
+| .visible-lg   | Hidden        |  Hidden           | Hidden         | ##### Visible |
+| .hidden-xs    | Hidden        |  ##### Visible    | ##### Visible  | ##### Visible |
+| .hidden-sm    | ##### Visible |  Hidden           | ##### Visible  | ##### Visible |
+| .hidden-md    | ##### Visible |  ##### Visible    | Hidden         | ##### Visible |
+| .hidden-lg    | ##### Visible |  ##### Visible    | Visible        | Hidden        |
 
