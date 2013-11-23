@@ -46,8 +46,13 @@
 * `class="visible-print"`  =  Browser ( Hidden ) - Print  ( Visible )   
 * `class="hidden-print"`   =  Browser ( Visible ) - Print ( Hidden )   
 
+### Responsive utilities
 
-| Tables        | Are           | Cool  |
+
+
+|               | Extra small devices Phones (<768px) | Small devices Tablets (≥768px)  | Medium devices
+Desktops (≥992px)  | Large devices
+Desktops (≥1200px) |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
