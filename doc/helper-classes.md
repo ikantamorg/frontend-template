@@ -42,7 +42,7 @@
 
 * `class="invisible"` =  `.invisible { visibility: hidden; }`
 
-### [Responsive utilities](http://getbootstrap.com/css/#responsive-utilities)
+### Responsive utilities
 
 |  Class        | <768px      | ≥768px        | ≥992px       | ≥1200px     |
 | --------------|:-----------:| -------------:| ------------:| -----------:|
@@ -56,7 +56,7 @@
 | .hidden-lg    | **Visible** |  **Visible**  | **Visible**  | Hidden      |
 
 
-#### [Print classes](http://getbootstrap.com/css/#responsive-utilities-print)
+#### Print classes
 |  Class         | Browser     | Print       |
 | ---------------|:-----------:| ------------|
 | .visible-print | Hidden      | **Visible** |
