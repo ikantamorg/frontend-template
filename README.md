@@ -42,6 +42,7 @@ frontend-template/
       └── swf
 ```
 
+> Before you start, check the [TODO](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/TODO.md) list please.
 
 ## Snippets:
 
