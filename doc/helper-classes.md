@@ -39,5 +39,5 @@
 * `class="show"`   =  `.show { display: block !important;}`    
 * `class="hidden"` =  `.hidden { display: none !important; visibility: hidden !important; }`
 
-*Furthermore, .invisible can be used to toggle only the visibility of an element, meaning its display is not modified and the element can still affect the flow of the document.*
+*Furthermore, .invisible can be used to toggle only the visibility of an element, meaning its `display` is not modified and the element can still affect the flow of the document.*
 * `class="invisible"` =  `.invisible { visibility: hidden; }`
