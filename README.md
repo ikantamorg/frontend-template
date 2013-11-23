@@ -18,6 +18,9 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 
 > [TODO](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/TODO.md) list.
 
+## License
+MIT License
+
 ### Features
 
 - Browser support 
