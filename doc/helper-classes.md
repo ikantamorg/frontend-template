@@ -2,13 +2,11 @@
 ---
 
 #### Positions
-HTML:
 ```html
 <div class="pos-fxd"></div>
 <div class="pos-abs"></div>
 <div class="pos-rtv"></div>
 ```
-CSS:
 ```css
 .pos-fxd  { position: fixed; }
 .pos-abs  { position: absolute; }
