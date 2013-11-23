@@ -42,15 +42,10 @@
 
 * `class="invisible"` =  `.invisible { visibility: hidden; }`
 
+### [Responsive utilities](http://getbootstrap.com/css/#responsive-utilities)
 
-#### Print classes
-* `class="visible-print"`  =  Browser ( Hidden ) - Print  ( Visible )   
-* `class="hidden-print"`   =  Browser ( Visible ) - Print ( Hidden )   
-
-### Responsive utilities
-
-|               | <768px      | ≥768px        | ≥992px       | ≥1200px     |
-| ------------- |:-----------:| -------------:| ------------:| -----------:|
+|  Class        | <768px      | ≥768px        | ≥992px       | ≥1200px     |
+| --------------|:-----------:| -------------:| ------------:| -----------:|
 | .visible-xs   | **Visible** |  Hidden       | Hidden       | Hidden      |
 | .visible-sm   | Hidden      |  **Visible**  | Hidden       | Hidden      |
 | .visible-md   | Hidden      |  Hidden       | **Visible**  | Hidden      |
@@ -59,4 +54,11 @@
 | .hidden-sm    | **Visible** |  Hidden       | **Visible**  | **Visible** |
 | .hidden-md    | **Visible** |  **Visible**  | Hidden       | **Visible** |
 | .hidden-lg    | **Visible** |  **Visible**  | **Visible**  | Hidden      |
+
+
+#### [Print classes](http://getbootstrap.com/css/#responsive-utilities-print)
+|  Class         | Browser     | Print       |
+| ---------------|:-----------:| ------------|
+| .visible-print | Hidden      | **Visible** |
+| .hidden-print  | **Visible** | Hidden      |
 
