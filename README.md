@@ -11,10 +11,20 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 * [bootstrap-fileupload.min.js](http://jasny.github.io/bootstrap/javascript/#fileinput)
 * [jQuery UI Touch Punch](http://touchpunch.furf.com/)
 
+### Features
+
+- Browser support 
+-- Modern browsers, IE8+ 
+- Valid HTML5
+- Favicon + iPhone favicon
+- Reset
+- Media queries (print and mobile)
+- jQuery (CDN)
+- Reusable classes
+
 ---
 
 ### Folder Structure
-
 
 ```
 frontend-template/
@@ -42,11 +52,3 @@ frontend-template/
 
 #### CSS
 * [Helper classes](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/doc/helper-classes.md)
-
-
-TODO: 
-- Components 
-- Javascript
-
-
-
