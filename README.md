@@ -6,7 +6,10 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 
 ---
 
-Packed with: The lastest Bootstrap [v3.0.2](http://getbootstrap.com/) 
+### Packed with: 
+* The lastest Bootstrap [v3.0.2](http://getbootstrap.com/) 
+* [bootstrap-fileupload.min.js](http://jasny.github.io/bootstrap/javascript/#fileinput)
+* [jQuery UI Touch Punch](http://touchpunch.furf.com/)
 
 ---
 
