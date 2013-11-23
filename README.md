@@ -2,8 +2,7 @@ Frontend template starter.
 ---
 Clean and fast starting point for front-end development projects.
 
-Created by [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team: 
-- [@ElmahdiMahmoud](https://twitter.com/ElmahdiMahmoud). 
+Created by [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team: [@ElmahdiMahmoud](https://twitter.com/ElmahdiMahmoud). 
 
 ---
 
