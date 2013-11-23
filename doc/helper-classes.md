@@ -24,7 +24,7 @@
 * `class="p-tb10"` =  `.p-tb10 { padding-top: 10px; padding-bottom: 10px; }`
 
 --
-### Bootstrap Helper classes v3.0.2
+### [Bootstrap Helper classes v3.0.2](http://getbootstrap.com/css/#helper-classes)
 ---
 
 #### Quick floats
