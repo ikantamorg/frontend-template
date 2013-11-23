@@ -3,9 +3,9 @@ Custom Helper Classes:
 
 Positions
 
+* `class="pos-fxd"` =  `.pos-fxd  { position: fixed; }`
 * `class="pos-abs"` =  `.pos-abs  { position: absolute; }`   
 * `class="pos-rtv"` =  `.pos-rtv  { position: relative; }`
-* `class="pos-fxd"` =  `.pos-fxd  { position: fixed; }`
 
 
 Outer space with ( margin )
