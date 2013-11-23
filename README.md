@@ -1,6 +1,6 @@
 Frontend template starter.
 ---
-Clean and fast starting point for front-end development projects.
+Fast and clean starting point for front-end development projects.
 
 Created by [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers team: [@ElmahdiMahmoud](https://twitter.com/ElmahdiMahmoud). 
 
@@ -10,7 +10,6 @@ Created by [@IkantamCorp](https://twitter.com/IkantamCorp) front-end developers 
 * The lastest Bootstrap [v3.0.2](http://getbootstrap.com/) 
 * [bootstrap-fileupload.min.js](http://jasny.github.io/bootstrap/javascript/#fileinput)
 * [jQuery UI Touch Punch](http://touchpunch.furf.com/)
-
 
 ## Getting Started
 - HTTPS clone URL `https://github.com/ElmahdiMahmoud/frontend-template.git`.
