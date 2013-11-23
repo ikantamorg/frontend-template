@@ -24,3 +24,19 @@
 * `class="p-tb10"` =  `.p-tb10 { padding-top: 10px; padding-bottom: 10px; }`
 
 ---
+
+### Bootstrap Helper classes v3.0.2
+---
+
+#### Quick floats
+* `class="pull-left"`   =  `.pull-left  { float: left !important; }`   
+* `class="pull-right"`  =  `.pull-right { float: right !important; }`   
+
+#### Center content blocks
+* `class="center-block"` =  `.center-block { display: block; margin-left: auto; margin-right: auto; }`  
+
+#### Showing and hiding content
+* `class="show"` =  `.show { display: block !important;}`    
+* `class="hidden"` =  `.hidden { display: none !important; visibility: hidden !important; }`
+Furthermore, .invisible can be used to toggle only the visibility of an element, meaning its display is not modified and the element can still affect the flow of the document.
+* `class="invisible"` =  `.invisible { visibility: hidden; }`
