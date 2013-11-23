@@ -11,6 +11,13 @@ The repository has been created by [@ElmahdiMahmoud](https://twitter.com/Elmahdi
 * [bootstrap-fileupload.min.js](http://jasny.github.io/bootstrap/javascript/#fileinput)
 * [jQuery UI Touch Punch](http://touchpunch.furf.com/)
 
+
+## Getting Started
+- HTTPS clone URL `https://github.com/ElmahdiMahmoud/frontend-template.git`.
+- SSH clone URL `git@github.com:ElmahdiMahmoud/frontend-template.git`.
+
+> [TODO](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/TODO.md) list.
+
 ### Features
 
 - Browser support 
@@ -41,8 +48,6 @@ frontend-template/
       ├── images
       └── swf
 ```
-
-> Before you start, check the [TODO](https://github.com/ElmahdiMahmoud/frontend-template/blob/master/TODO.md) list please.
 
 ## Snippets:
 
