@@ -45,7 +45,7 @@ a {
 
 
 /*  old browser notification */
-#bs {
+#browser-status {
         background-color: #dc3228;
         position: fixed;
         top: 0;
@@ -57,7 +57,7 @@ a {
         font: normal 16px/100% Arial, san-serif;
 		z-index: 9999;
 }
-#bs a { 
+#browser-status a { 
 	color: #fff; 
 	font-weight: normal; 
 	text-decoration: none; 
