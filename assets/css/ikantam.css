@@ -45,20 +45,28 @@ a {
 
 
 /*  old browser notification */
-#ob {
-        background-color: #fae4b2;
-        border: 1px solid #ece29d;
+#bs {
+        background-color: #dc3228;
         position: fixed;
         top: 0;
         left: 0;
         width: 100%;
         padding: 20px;
         text-align: center;
-        color: #333;
+        color: #fff;
         font: normal 16px/100% Arial, san-serif;
-	z-index: 9999;
+		z-index: 9999;
 }
-#ob a { color: #12c; font-weight: bold; text-decoration: underline; }
+#bs a { 
+	color: #fff; 
+	font-weight: normal; 
+	text-decoration: none; 
+	text-transform: uppercase;
+	border: 2px solid #fff;
+	padding: 10px;
+	display: inline-block;
+	margin-left: 10px;
+}
 
 /* Miscellaneous ============== */
 input::-moz-focus-inner { border: 0; }
