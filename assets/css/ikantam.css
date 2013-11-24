@@ -46,16 +46,17 @@ a {
 
 /*  old browser notification */
 #ob {
-	background-color: #fae4b2;
-	border: 1px solid #ece29d;
-	position: fixed;
-	top: 0;
-	left: 0;
-	width: 100%;
-	padding: 20px;
-	text-align: center;
-	color: #fff;
-	font: normal 16px/100% Arial, san-serif;
+        background-color: #fae4b2;
+        border: 1px solid #ece29d;
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        padding: 20px;
+        text-align: center;
+        color: #333;
+        font: normal 16px/100% Arial, san-serif;
+	z-index: 9999;
 }
 #ob a { color: #12c; font-weight: bold; text-decoration: underline; }
 
