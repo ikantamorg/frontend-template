@@ -2,7 +2,7 @@
  *  Written for: ?
  *  Author: @IkantamCorp - @ElmahdiMahmoud
  *  Further changes: @author
- *  Last modified date: 23.11.13
+ *  Updated: 06.12.13
  */
 
 /* Links & type =============== */
@@ -43,6 +43,11 @@ a {
 .p-l10  { padding-left: 10px; }
 .p-rl10 { padding-right: 10px; padding-left: 10px; }
 
+/* text */
+.txt-uc { text-transform: uppercase; }
+
+/* form fields */
+.resize { resize: none; }
 
 /*  old browser notification */
 #browser-status {
@@ -78,6 +83,15 @@ body, textarea:focus, input:focus { -webkit-tap-highlight-color: rgba(255, 255, 
 
 ::-moz-selection { background: #333; color: #fff; text-shadow: none; }
 ::selection 	 { background: #333; color: #fff; text-shadow: none; }
+
+.clear    { 
+    visibility: hidden; 
+    display: block !important; 
+    font-size: 0; 
+    content: " "; 
+    clear: both; 
+    height: 0; 
+}
 
 /* Icons ====================== */
 [class^="icon-"],
