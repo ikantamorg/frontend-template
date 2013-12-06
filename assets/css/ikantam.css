@@ -47,7 +47,13 @@ a {
 .txt-uc { text-transform: uppercase; }
 
 /* form fields */
-.resize { resize: none; }
+input:focus:invalid:focus, 
+textarea:focus:invalid:focus, 
+select:focus:invalid:focus {
+    border-color: #D31712 !important;
+}
+
+.resize-none { resize: none; }
 
 /*  old browser notification */
 #browser-status {
