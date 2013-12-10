@@ -1,7 +1,8 @@
 ### Custom Helper Classes:
 ---
 
-#### Browsers
+#### Browsers:
+##### Target IE
 ```css
 .ie8  { /* rule for IE8 */  }
 .ie9  { /* rule for IE9 */  }
